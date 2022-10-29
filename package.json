@@ -1,0 +1,22 @@
+{
+  "name": "week-13-intro_to_react_webpack_components_and_jsx",
+  "version": "1.0.0",
+  "description": "\"# week13Assignment\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinStraka/week13Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinStraka/week13Assignment/issues"
+  },
+  "homepage": "https://github.com/RobinStraka/week13Assignment#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
